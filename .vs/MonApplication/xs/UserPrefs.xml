@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{31A7BDAC-A04E-4789-ACD6-BDB1F679763E}|P2FixAnAppDotNetCode">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MonApplicationTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MonApplication PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
